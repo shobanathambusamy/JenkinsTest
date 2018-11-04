@@ -1,0 +1,15 @@
+To set up chrome driver:
+
+http://chromedriver.storage.googleapis.com/index.html?path=2.0/
+
+Exception in thread "main" java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+
+
+In terminal
+
+cd ~/apexassignments1
+ shobana$ cd ~/apexassignments1/MavenProject/driver
+
+ chmod 755 chromedriver
+1. Make it executable
+

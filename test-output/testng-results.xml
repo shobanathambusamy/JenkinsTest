@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28795" started-at="2018-11-01T14:40:57Z" finished-at="2018-11-01T14:41:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28795" started-at="2018-11-01T14:40:57Z" finished-at="2018-11-01T14:41:25Z">
+      <class name="com.qa.test.Day2Test">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="beforeTest" is-config="true" duration-ms="2472" started-at="2018-11-01T07:40:57Z" finished-at="2018-11-01T07:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="comparePricesInDifferentPages_Pass1()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="comparePricesInDifferentPages_Pass1" duration-ms="3282" started-at="2018-11-01T07:40:59Z" finished-at="2018-11-01T07:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePricesInDifferentPages_Pass1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="cleanUp" is-config="true" duration-ms="98" started-at="2018-11-01T07:41:02Z" finished-at="2018-11-01T07:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="beforeTest" is-config="true" duration-ms="1470" started-at="2018-11-01T07:41:03Z" finished-at="2018-11-01T07:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyLoginSection_Invalid1()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="verifyLoginSection_Invalid1" duration-ms="3800" started-at="2018-11-01T07:41:04Z" finished-at="2018-11-01T07:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginSection_Invalid1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="cleanUp" is-config="true" duration-ms="125" started-at="2018-11-01T07:41:08Z" finished-at="2018-11-01T07:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="beforeTest" is-config="true" duration-ms="1677" started-at="2018-11-01T07:41:08Z" finished-at="2018-11-01T07:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyLoginSection_Invalid2()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="verifyLoginSection_Invalid2" duration-ms="3267" started-at="2018-11-01T07:41:10Z" finished-at="2018-11-01T07:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginSection_Invalid2 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="cleanUp" is-config="true" duration-ms="106" started-at="2018-11-01T07:41:13Z" finished-at="2018-11-01T07:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="beforeTest" is-config="true" duration-ms="1645" started-at="2018-11-01T07:41:13Z" finished-at="2018-11-01T07:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyLoginSection_Invalid3()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="verifyLoginSection_Invalid3" duration-ms="3770" started-at="2018-11-01T07:41:15Z" finished-at="2018-11-01T07:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginSection_Invalid3 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="cleanUp" is-config="true" duration-ms="102" started-at="2018-11-01T07:41:18Z" finished-at="2018-11-01T07:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="beforeTest" is-config="true" duration-ms="1627" started-at="2018-11-01T07:41:19Z" finished-at="2018-11-01T07:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyUpdateQuantityErrorMessage_Pass1()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="verifyUpdateQuantityErrorMessage_Pass1" duration-ms="5218" started-at="2018-11-01T07:41:20Z" finished-at="2018-11-01T07:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpdateQuantityErrorMessage_Pass1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.qa.test.Day2Test@482f8f11]" name="cleanUp" is-config="true" duration-ms="86" started-at="2018-11-01T07:41:25Z" finished-at="2018-11-01T07:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.qa.test.Day2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
